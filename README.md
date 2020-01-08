@@ -11,4 +11,4 @@ This volume comprises three books under one cover: Part I outlines the necessary
 
 Jack D. Hidary is a researcher in quantum computing and in AI at Alphabet X, formerly Google X.
 
-https://www.springer.com/us/book/9783030239213 
+https://www.amazon.com/Quantum-Computing-Approach-Jack-Hidary/dp/3030239217/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=
